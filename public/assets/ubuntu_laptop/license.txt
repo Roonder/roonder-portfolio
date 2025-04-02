@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ubuntu 24.04 Laptop
+* source:	https://sketchfab.com/3d-models/ubuntu-2404-laptop-aeb3c45d92304067bfc5155650dd9d46
+* author:	CG Robot (https://sketchfab.com/cgrobot)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
