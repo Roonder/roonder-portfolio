@@ -1,0 +1,112 @@
+{
+    "esp": {
+        "JavaScript": {
+            "level": "Medio-avanzado",
+            "bullets": [
+                "Dominio de conceptos fundamentales del lenguaje",
+                "Experiencia con generadores, iteradores y Web Scraping",
+                "Conocimiento de PWA y PM2"
+            ]
+        },
+        "TypeScript": {
+            "level": "Medio",
+            "bullets": [
+                "Manejo de tipados genéricos básicos y POO",
+                "Conocimiento de aserción de clases"
+            ]
+        },
+        "React": {
+            "level": "Medio-avanzado",
+            "bullets": [
+                "Dominio de conceptos avanzados (memoización, debouncing, throttling)",
+                "Experiencia con Next.js 13/14/15 (App y Page Router)",
+                "Creación de hooks personalizados"
+            ]
+        },
+        "MongoDB": {
+            "level": "Medio-avanzado",
+            "bullets": [
+                "Manejo de aggregations y esquemas relacionales",
+                "Experiencia con indexación y optimización"
+            ]
+        },
+        "AWS": {
+            "level": "Básico",
+            "bullets": [
+                "Configuración de EC2, Lightsail y VPC",
+                "Experiencia con Lambda, S3 y RDS",
+                "Manejo básico de IAM"
+            ]
+        },
+        "Python": {
+            "level": "Básico",
+            "bullets": [
+                "Comprensión de sintaxis básica",
+                "Enfoque en automatizaciones y APIs",
+                "Objetivo de aprendizaje: Machine Learning e IAs"
+            ]
+        },
+        "Golang": {
+            "level": "Básico",
+            "bullets": [
+                "Conocimiento básico de sintaxis",
+                "Experiencia breve con API en Echo"
+            ]
+        }
+    },
+    "eng": {
+        "JavaScript": {
+            "level": "Intermediate-Advanced",
+            "bullets": [
+                "Proficiency in fundamental language concepts",
+                "Experience with generators, iterators, and Web Scraping",
+                "Knowledge of PWA and PM2"
+        ]
+        },
+        "TypeScript": {
+            "level": "Intermediate",
+            "bullets": [
+                "Handling of basic generic typings and OOP",
+                "Knowledge of class assertion"
+            ]
+        },
+        "React": {
+            "level": "Intermediate-Advanced",
+            "bullets": [
+                "Mastery of advanced concepts (memoization, debouncing, throttling)",
+                "Experience with Next.js 13/14/15 (App and Page Router)",
+                "Creation of custom hooks"
+        ]
+        },
+        "MongoDB": {
+            "level": "Intermediate-Advanced",
+            "bullets": [
+                "Handling of aggregations and relational schemas",
+                "Experience with indexing and optimization"
+            ]
+        },
+        "AWS": {
+            "level": "Basic",
+            "bullets": [
+                "Configuration of EC2, Lightsail, and VPC",
+                "Experience with Lambda, S3, and RDS",
+                "Basic handling of IAM"
+        ]
+        },
+        "Python": {
+            "level": "Basic",
+            "bullets": [
+                "Understanding of basic syntax",
+                "Focus on automations and APIs",
+                "Learning objective: Machine Learning and AIs"
+        ]
+        },
+        "Golang": {
+            "level": "Basic",
+            "bullets": [
+                "Basic knowledge of syntax",
+                "Brief experience with API in Echo"
+            ]
+        }
+    }
+}
